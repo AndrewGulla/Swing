@@ -1,0 +1,97 @@
+USA
+  Alabama
+  Alaska
+  Arizona
+  Arkansas
+  California
+  Colorado
+  Connecticut
+  Delaware
+  Florida
+  Georgia
+  Hawaii
+  Idaho
+  Illinois
+  Indiana
+  Iowa
+  Kansas
+  Kentucky
+  Louisiana
+  Maine
+  Maryland
+  Massachusetts
+  Michigan
+  Minnesota
+  Mississippi
+  Missouri
+  Montana
+  Nebraska
+  Nevada
+  New Hampshire
+  New Jersey
+  New Mexico
+  New York
+  North Carolina
+  North Dakota
+  Ohio
+  Oklahoma
+  Oregon
+  Pennsylvania
+  Rhode Island
+  South Carolina
+  South Dakota
+  Tennessee
+  Texas
+  Utah
+  Vermont
+  Virginia
+  Washington
+  Washington, D.C.
+  West Virginia
+  Wisconsin
+  Wyoming
+Canada
+  Ontario
+  Quebec
+  Nova Scotia
+  New Brunswick
+  Manitoba
+  British Columbia
+  Print Edward Island
+  Saskatchewan
+  Alberta
+  Newfoundland and Labrador
+  Northwest Territories
+  Yukon
+  Nunavut
+Mexico
+  California Sur
+  Campeche
+  Chiapas
+  Chihuahua
+  Coahuila de Zaragoza
+  Colima
+  Distrito Federal
+  Durango
+  Guanajuato
+  Guerrero
+  Hidalgo
+  Jalisco
+  Mexico
+  Michoacan de Ocampo
+  Morelos
+  Nayarit
+  Nuevo Leon
+  Oaxaca
+  Puebla
+  Queretaro de Arteaga
+  Quintana Roo
+  San Luis Potosi
+  Sinaloa
+  Sonora
+  Tabasco
+  Tamaulipas
+  Tlaxcala
+  Veracruz-Llave
+  Yucatan
+  Zacatecas
